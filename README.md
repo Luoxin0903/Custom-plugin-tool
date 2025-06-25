@@ -9,6 +9,8 @@
 图片自定义：
 <img width="960" alt="企业微信截图_17508191234414" src="https://github.com/user-attachments/assets/54a3cd10-b467-4bcd-909f-143c8d844a19" />
 <img width="960" alt="企业微信截图_17508180035601" src="https://github.com/user-attachments/assets/6b332fb4-d6c0-4f32-b838-65eaeaabf999" />
+关于版本：
+<img width="240" alt="企业微信截图_17508232468400" src="https://github.com/user-attachments/assets/7922f372-77f5-4f33-a7af-bc38c24f1817" />
 
 
 ## 项目结构
