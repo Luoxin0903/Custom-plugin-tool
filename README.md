@@ -1,7 +1,7 @@
 自定义的插件工具
 
 
-# Dify Chrome Extension 使用指南
+# ZZAgent助手 Chrome Extension 使用指南
 插件界面：
 <img width="429" alt="企业微信截图_1750771719244" src="https://github.com/user-attachments/assets/bd878e20-77d2-45df-b49f-9baaec09bbe3" />
 调试页面：
