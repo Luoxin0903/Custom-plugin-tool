@@ -1,11 +1,15 @@
-<img width="429" alt="企业微信截图_1750771719244" src="https://github.com/user-attachments/assets/1ee53d99-ea0d-4cdc-9402-c4479a883f13" /># Custom-plugin-tool
 自定义的插件工具
 
 
-
-
-
 # Dify Chrome Extension 使用指南
+插件界面：
+<img width="429" alt="企业微信截图_1750771719244" src="https://github.com/user-attachments/assets/bd878e20-77d2-45df-b49f-9baaec09bbe3" />
+调试页面：
+<img width="964" alt="企业微信截图_17507757907619" src="https://github.com/user-attachments/assets/2f5c4207-a573-4282-becb-470c85891b28" />
+图片自定义：
+<img width="953" alt="企业微信截图_17508179963768" src="https://github.com/user-attachments/assets/ac04bdac-6150-4715-bfca-4128fc346f05" />
+<img width="960" alt="企业微信截图_17508180035601" src="https://github.com/user-attachments/assets/6b332fb4-d6c0-4f32-b838-65eaeaabf999" />
+
 
 ## 项目结构
 
