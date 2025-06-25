@@ -7,7 +7,7 @@
 调试页面：
 <img width="964" alt="企业微信截图_17507757907619" src="https://github.com/user-attachments/assets/2f5c4207-a573-4282-becb-470c85891b28" />
 图片自定义：
-<img width="953" alt="企业微信截图_17508179963768" src="https://github.com/user-attachments/assets/ac04bdac-6150-4715-bfca-4128fc346f05" />
+<img width="960" alt="企业微信截图_17508191234414" src="https://github.com/user-attachments/assets/54a3cd10-b467-4bcd-909f-143c8d844a19" />
 <img width="960" alt="企业微信截图_17508180035601" src="https://github.com/user-attachments/assets/6b332fb4-d6c0-4f32-b838-65eaeaabf999" />
 
 
